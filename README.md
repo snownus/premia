@@ -25,3 +25,6 @@ source ~/tensorflow/bin/activate
 ```
 exit
 ```
+
+# Contact
+If any issues, please contact with geng_xue (geng_xue@i2r.a-star.edu.sg) and chenzhuo (chenzhuo.zoom@gmail.com).
