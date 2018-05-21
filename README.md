@@ -17,8 +17,11 @@ pip install keras
 ```
 pip install pandas
 ```
-- start and exit python enviroment
-start cmd:
-```source ~/tensorflow/bin/activate```
-exit cmd:
-```exit```
+- start python virtual environment
+```
+source ~/tensorflow/bin/activate
+```
+- exit python virtual enviroment
+```
+exit
+```
