@@ -1,7 +1,7 @@
 # premia
 premia course codes 
 
-# pre-requistes
+# prerequisites
 - Install tensorflow
 ```
 sudo apt-get install python-pip python-dev python-virtualenv
