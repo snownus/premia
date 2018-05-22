@@ -32,3 +32,4 @@ If any issues, please contact with geng xue (geng_xue@i2r.a-star.edu.sg) and che
 # Reference Link
 - https://www.tensorflow.org/install/install_linux
 - https://www.tensorflow.org/install/install_windows
+- http://timmyreilly.azurewebsites.net/python-pip-virtualenv-installation-on-windows/
