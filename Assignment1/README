@@ -1,0 +1,22 @@
+This directory contains the files
+x_train.csv
+y_train.csv
+x_test.csv
+y_test.csv
+
+x_train.csv consist of 14 columns each entries of +1 and -1
+y_train.csv contains the label for the bit patterns in x_train.csv
+
+Write a MLP code to find that function that maps the data
+x_train.csv to y_train.csv.
+
+Evaluate your results on x_test.csv and y_test.csv
+
+Make the networks:
+14 -> 100 -> 40 -> 4
+14 -> 28x6 -> 4
+14 -> 14x28 -> 4
+
+Try experimenting with deeper networks when you have time.
+
+
