@@ -1,0 +1,21 @@
+make a MLP to grade MNIST data set
+
+(1) you need to try your own network architecture, some suggestions are:
+
+input -> 10 x n -> 10
+input -> 100 x n -> 10
+input -> 1000 x n -> 10
+
+(2) try different optimisers from : https://keras.io/optimizers/
+and try different parameters for the optimizers
+
+(3) try different loss functions from https://keras.io/losses/
+
+(4) repeat many experiments for different permutations of (1),(2) & (3)
+
+(5) for each permutation, explain which ones work and which ones don’t, explain why 
+
+
+after you finish, make another MLP to classify CIFAR10 data set
+repeat (1) to (5)
+
